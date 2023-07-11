@@ -4,6 +4,14 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+-  I am working as a Data Engineer at Synechron India Pvt Ltd in Bengaluru. I have a 9.5 years of overall IT experience as a software developer. Involved in designing, developing, implementing and maintenance of various phases of SDLC.
+  
+- Having 4 years of experience as a Data Engineer using Hadoop and Spark framework.
+
+- I have a previous experience as a Peoplesoft Develooper at Tech Mahindra India Pvt Ltd, Oracle India Pvt Ltd and Infosys India Pvt Ltd.
+  
+- I am holding a Full-time Bachelor’s degree (4 years) in Electronics and communication Engineering.
+
 - 🌱 I’m currently learning **AWS Data Engineer course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sreedharchalavadi?tab=repositories](https://github.com/sreedharchalavadi?tab=repositories)

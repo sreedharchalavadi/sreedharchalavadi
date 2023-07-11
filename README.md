@@ -1,3 +1,4 @@
+![logo](https://github.com/sreedharchalavadi/sreedharchalavadi/blob/main/Data.avif)
 <h1 align="center">Hi 👋, I'm Sreedhar Chalavadi</h1>
 <h3 align="center">A passionate Bigdata developer from India</h3>
 

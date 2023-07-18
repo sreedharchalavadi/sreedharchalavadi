@@ -6,7 +6,7 @@
 
 -  I am working as a Lead Data Technology at Synechron India Pvt Ltd in Bengaluru. I have a 9.7 years of overall IT experience as a software developer. Involved in designing, developing, implementing and maintenance of various phases of SDLC.
   
--  I have a previous experience at Infosys India Pvt Ltd as a Pyspark Production support Engineer and a Peoplesoft developer in Tech Mahindra India Pvt Ltd, Oracle India Pvt Ltd. I am holding a Full-time bachelor’s degree (4 years) in Electronics and communication Engineering.
+-  I have a previous experience at Infosys India Pvt Ltd as a Pyspark Production support Engineer and a Peoplesoft developer in Oracle India Pvt Ltd and Tech Mahindra India Pvt Ltd. I am holding a Full-time bachelor’s degree (4 years) in Electronics and communication Engineering.
   
 - Having 4 years of experience as a Data Engineer using Hadoop and Spark framework.
 
